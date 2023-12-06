@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Suo\Desktop\study\3913\devoir4\IFT3913_TP4\currency-converter-in-java-master\.metadata\.plugins\org.eclipse.jdt.core
