@@ -1,0 +1,14 @@
+class MainWindowConterterTest{
+
+    @test 
+    void ValideTest(){
+        MainWindow conversion = new MainWindow();
+        conversion.convert(CAD,USD, ArrayList<Currency>,50); 
+    }
+
+    @test 
+    void InferieurInvalideTest(){
+        MainWindow conversion = new MainWindow();
+        conversion.convert(-50,2); 
+    }
+}
