@@ -7,8 +7,8 @@ class MainWindowConterterTest{
     }
 
     @test 
-    void InferieurInvalideTest(){
+    void InvalideTest(){
         MainWindow conversion = new MainWindow();
-        conversion.convert(-50,2); 
+        conversion.convert(ABC,DEF,ArrayList<Currency>,50); 
     }
 }
