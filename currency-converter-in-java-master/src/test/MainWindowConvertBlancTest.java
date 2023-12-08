@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-public class MainWindowTest {
+public class MainWindowConvertBlancTest {
 
     @Test
     public void testConvert() {
